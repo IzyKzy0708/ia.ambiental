@@ -53,20 +53,20 @@ const perguntas = [
             },
             {
                 texto: "Porque eu não gostaria de viver em um lugar doente, porém, não faço muita questão",
-                afirmacao: ""
+                afirmacao: "Reconhecer a importância de viver em um ambiente saudável é crucial, mesmo que o interesse pessoal possa parecer limitado. A mudança começa com a conscientização de que um ambiente degradado afeta a qualidade de vida de todos, e adotar práticas sustentáveis é essencial para garantir um futuro melhor para si mesmo e para os outros."
             }
         ]
     },
     {
-        enunciado: "? ",
+        enunciado: "Como a falta de comprometimento com a saúde ambiental pode prejudicar aqueles que inicialmente não se preocupam com o impacto ambiental?",
         alternativas: [
             {
-                texto: ".",
-                afirmacao: "."
+                texto: "Acredito que seria um impacto sucinto, que pode ser ou não, fonte de aglomerados de situações especificamente catastrósficas a longo prazo",
+                afirmacao: "A saúde ambiental é uma questão coletiva, e problemas ambientais podem se agravar muito com o tempo, impactando até mesmo aqueles que inicialmente não se importam. Proteger o meio ambiente é essencial para garantir um planeta habitável, saudável e confortável."
             },
             {
-                texto: ".",
-                afirmacao: "."
+                texto: "Pode prejudicar de maneira agravante imediatamente, trazendo inúmeros malefícios para essa geração, e muito mais para as próximas",
+                afirmacao: "Ao adotar práticas sustentáveis e promover a conservação ambiental, podemos melhorar significativamente a qualidade de vida das gerações atuais e garantir um futuro mais saudável e próspero para as próximas gerações. O planeta precisa de pessoas como você ❤️"
             }
         ]
     },
